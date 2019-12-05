@@ -22,7 +22,7 @@ body{
     background-color: rgb(243, 243, 243);
     text-align: center;
     font-size: 12px;
-    padding: 15px 0px;
+    padding: 10px 0px;
 }
 #head-link{
     height: 46px;
@@ -68,7 +68,7 @@ body{
     color: black;
     font-size: 15px;
     padding: 15px 0px 15px;
-    margin: 0px 25px 0px 0px;
+    margin: 0px 25px 0px 0px; 
 }
 #left{
     width: 1900px;
@@ -89,10 +89,26 @@ margin: 0px 30px 0px 0px;
 padding: 15px 0px 15px;
 margin: 0px 30px 0px 0px;
 }
-#sanpham{
-    height: 59px;
-    border: 1px solid black;
-    font-size: 37px;
+#content{
+    width: 1900px;
+    height: 1500px;
+    float: left;
+}
+#footer{
+    font-size: 15px;
+    height: 44px;
+     clear: both;
+     border: 1px solid black;
+}
+#sodienthoai{
+    color: red;
+}
+#sanpham-nhu{
+    color: black;
+    font-size: 40px;
     text-align: center;
-    padding: 15px 0px ;
+padding: 50px 0px;
+}
+#sanpham{
+    color: black;
 }
