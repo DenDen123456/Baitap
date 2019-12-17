@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Tahoma;
+    font-size: 12px;
+    margin: 0px;
+}
+ 
+#main{
+    width: 100%;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#head-logo{
+    height: 200px;
+    border: 1px solid;
+    font-size:  90px;
+    padding: 20px 50px 0px;
+}
+#shirt{
+    font-size: 15px;
+    color: black;
+    padding: 10px 0px 15px;
+    margin: 0px 25px 0px 0px;
+    text-align: center;
+}
+#head-link{
+    height: 500px;
+    width: 300px;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom:5px;
+    clear: both;
+    text-align: center;
+    border: 1px solid;
+}
+a{
+    text-decoration: none;
+}
+
