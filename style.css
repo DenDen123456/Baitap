@@ -12,9 +12,9 @@ body{
 }
 #head-logo{
     height: 120px;
-    text-align: center;
+    text-align: right;
     font-size:  90px;
-    padding: 20px 0px 1px;
+    padding: 20px 50px 0px;
 }
 
 #head{
@@ -65,11 +65,13 @@ margin: 0px 30px 0px 0px;
     height: 45px;
      clear: both;
      border: 1px solid black;
-     padding: 25px 10px 0px ;
-     background-color: #F3F3;
+     padding: 25px 0px 0px ;
+     background-color: #f3f3f3;
+     margin: 10px 0px;
 }
 #sodienthoai{
     color: red;
+    padding: 5px;
 }
 #sanpham-nhu{
     color: black;
@@ -82,4 +84,16 @@ padding: 50px 0px;
 }
 a{
     text-decoration: none;
+    color: black;
+}
+#icon{
+    padding: 15px 0px 15px;
+    margin: 0px 30px 0px 0px;
+    text-align: right;
+}
+#icondienthoai{
+    margin: 0px 5px 0px 0px;
+}
+#bodysanpham{
+    padding: 0px 33px 15px;
 }
